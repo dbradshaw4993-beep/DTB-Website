@@ -1,4 +1,14 @@
 body {
     background-color: #88a0a3d8;
     text-align: center;
+   
 }
+ .Snowman_Game-img{
+        width: 700px;
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 20px auto;
+        border-radius:12px;
+        outline: 6px solid red;
+    }
